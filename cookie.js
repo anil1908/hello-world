@@ -7,7 +7,6 @@
  * Copyright (c) 2005-2015, Jim Auldridge MIT License
  *
  */
-
 /**
  *
  * @param {object} scope - a reference to the call scope
