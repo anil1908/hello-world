@@ -1,0 +1,13 @@
+Hi ,
+
+i have done employee managment task using angular2 technology .i have used MockBackend for api call.
+
+i have attached my task file (application zip) . please , download and go through out it .
+
+i have build angular2 app code for development in '/dist' folder . you should put this dist folder on your server ( wamp or xamp or any other server) root directive and run application .
+or if you have not able to put in root folder then you can change <base href="/dist/"> in index.html file and provide appropriate path in base href .
+
+Please let me know anything more needed from my side.
+
+Thanks & Regards 
+Anil vaza
